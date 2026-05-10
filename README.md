@@ -1,1 +1,1 @@
-# machine_learning_essentials
+# machine_learning_essentials_assignments
