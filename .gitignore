@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 MNIST/
+Exercise 03 - Convolutional Neural Network - Step-by-step guide.pdf/
 
 # C extensions
 *.so
